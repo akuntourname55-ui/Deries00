@@ -1,0 +1,6 @@
+{
+  "name": "Sicbo 6 Pola Tracker",
+  "description": "Pelacak pola pengeluaran dan statistik game Sicbo 6 dadu dengan analisis visual, road map, dan riwayat hasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
